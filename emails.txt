@@ -1,0 +1,3 @@
+user@example.com
+test@gmail.com
+wrong@nonexistentdomain12345.xyz
